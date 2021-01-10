@@ -1,0 +1,4 @@
+To specify a map file use the following format: 
+Usage: [executable] [-f filename.osm]
+Reading OpenStreetMap data from the following file: ../map.osm
+Enter the start and end co-ordinates as 4 values 
